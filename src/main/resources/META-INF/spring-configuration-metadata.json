@@ -1,0 +1,31 @@
+{
+  "groups": [
+    {
+      "name": "messengers.infobip",
+      "type": "com.github.messengers.config.InfobipConfig",
+      "sourceType": "com.github.messengers.config.InfobipConfig"
+    }
+  ],
+  "properties": [
+    {
+      "name": "messengers.infobip.enable",
+      "type": "java.lang.Boolean",
+      "sourceType": "com.github.messengers.config.InfobipConfig"
+    },
+    {
+      "name": "messengers.infobip.url-base-path",
+      "type": "java.lang.String",
+      "sourceType": "com.github.messengers.config.InfobipConfig"
+    },
+    {
+      "name": "messengers.infobip.client-id",
+      "type": "java.lang.String",
+      "sourceType": "com.github.messengers.config.InfobipConfig"
+    },
+    {
+      "name": "messengers.infobip.client-secret",
+      "type": "java.lang.String",
+      "sourceType": "com.github.messengers.config.InfobipConfig"
+    }
+  ]
+}
